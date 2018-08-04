@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 2, "skipped": 0, "encoding": "UTF-8", "total": 2}, "results": [{"classname": "index_test:HelperTest", "name": "test_p2pkh_address", "time": 0.0004391670227050781, "type": "success"}, {"classname": "index_test:HelperTest", "name": "test_p2sh_address", "time": 0.00012350082397460938, "type": "success"}]}
